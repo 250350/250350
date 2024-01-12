@@ -1,2 +1,2 @@
 1 change made 
-additonal change made
+adding some text at the beginning of the second line, additonal change made
